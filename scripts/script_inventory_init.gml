@@ -1,0 +1,1 @@
+global.inv = 0
